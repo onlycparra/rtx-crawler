@@ -1,5 +1,5 @@
 # rtx-crawler
-This script constantly checks the price of those jucy rtx-3080Ti. I asume you have linux, bash, and python3.
+This script constantly checks the price of those jucy rtx-3080Ti. I asume you have linux, bash, and python3. You will also need the python libraries `bs4`, `urllib3`, and `requests`
 
 | Function | command |
 | ------------- |-------------|
